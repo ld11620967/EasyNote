@@ -1,0 +1,7 @@
+#Fri Jul 22 11:35:25 CST 2016
+base.0=D\:\\nilin\\EasyNote\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aa698af57c11f48c80a06bcbae9c84232b819d59
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\nilin\\EasyNote\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0d541aaddbe48890fe1db75d04d25d6fdb73f408\\classes.dex
+base.1=D\:\\nilin\\EasyNote\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0d541aaddbe48890fe1db75d04d25d6fdb73f408
+file.0=D\:\\nilin\\EasyNote\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aa698af57c11f48c80a06bcbae9c84232b819d59\\classes.dex

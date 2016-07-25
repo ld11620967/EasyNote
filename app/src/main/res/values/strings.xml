@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">极简笔记</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">极简笔记</string>
+	 <string name="moneyitem">打赏穷驴开发者</string>
+	 <string name="helpitem">帮助</string>
+	 <string name="aboutitem">关于</string>
+	 <string name="worditem">导出为word文档</string>
+	 <string name="abouttext">极简笔记\n\n本软件由"JM聪"个人独立开发\n\n版权归JM聪个人所有\n\n如有何建议或意见请联系
+	     \n\nchencong860@vip.qq.com</string>
+	 <string name="moneytext">感谢驴友来到这个界面\n如果您想打赏同样是穷驴的开发者\n让其能赚点小钱去旅行\n请你点击下面的广告\n待广告完全打开，开发者可以赚几毛钱\n只会消耗你微少的流量</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9d18ce610ffed3023d1aa79e9c52885d3f467161">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aa698af57c11f48c80a06bcbae9c84232b819d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_e645c7ee18cdef1754ca434ee562937c038ce866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_1526a2e7aaa6c1d65615fe7bc75ea3e504ae898a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3cc70db170829f07bb54b73c6caf67f233f32224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_08b16856724fa3fb4e27eb337c3e2a21cf114629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_cd197f417a37448a1177f6ae227bedebbc0bbb10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9ce7111960660996352b3fb183f908db2d742f17">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d541aaddbe48890fe1db75d04d25d6fdb73f408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\libs\AppOffer_1.7.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c72c4463e7f9ddd513966fa433c05e093350a2df">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\2\AppOffer_1.7.1_45dfd8f2431066a91ddc531cb7df5609bd3cf2b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyNote\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\nilin\EasyNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_faeac093d91c92df7272764e245a63e28acd8a02\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="@drawable/background" >
+
+	<TextView
+		android:id="@+id/textview"
+		android:layout_width="wrap_content"
+		android:layout_height="35dip"
+		android:text="极  简  笔  记"
+		android:textSize="30sp"
+		android:textColor="#FF6600"
+		android:textStyle="bold"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true">
+	</TextView>
+
+	<ListView
+		android:id="@+id/travelslist"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/textview"
+		android:layout_above="@+id/addnotes"
+		>
+	</ListView>
+
+	<ImageButton
+		android:id="@+id/addnotes"
+		android:layout_width="170dp"
+		android:layout_height="45dp"
+		android:background="#00000000"
+		android:scaleType="fitXY"
+		android:src="@animator/button_regist"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="6dp">
+	</ImageButton>
+
+</RelativeLayout>

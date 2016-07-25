@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\nilin\\EasyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notepad_list_item.xml",
+        "source": "D:\\nilin\\EasyNote\\app\\src\\main\\res\\layout\\notepad_list_item.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checknotes.xml",
+        "source": "D:\\nilin\\EasyNote\\app\\src\\main\\res\\layout\\checknotes.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editnotes.xml",
+        "source": "D:\\nilin\\EasyNote\\app\\src\\main\\res\\layout\\editnotes.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\nilin\\EasyNote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
